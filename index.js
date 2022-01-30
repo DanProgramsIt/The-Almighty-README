@@ -11,7 +11,7 @@ const questions = [
   // for github
   {
     type: "input",
-    name: "github",
+    name: "username",
     message: "Provide your github username.",
     validate: (githubInput) => {
       if (githubInput) {
@@ -39,7 +39,7 @@ const questions = [
   // for title
   {
     type: "input",
-    name: "project-title",
+    name: "title",
     message: "Provide your project title.",
     validate: (projectInput) => {
       if (projectInput) {

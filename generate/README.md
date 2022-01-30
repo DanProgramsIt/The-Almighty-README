@@ -1,10 +1,10 @@
-# undefined
+# The Almighty Readme
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## description
 
-  This project is ment to help the user by creating a README.md with this generator.
+  With the input of node index in the console, you are provided with questions. When your done answering you will be generated with a README.md
 
   ## Table of Contents
 
@@ -29,7 +29,7 @@
 
   ## Usage
   
-  This repo is ment to help build out a README.
+  This code is ment to help the user generate a quick readme by answering some questions.
 
   ## License
 
@@ -37,7 +37,7 @@
 
   ## Contributing
 
-  Currently not accepting contributions.
+  I am not accepting any contributions at the time.
 
   ## Tests
 
@@ -49,6 +49,6 @@
 
   ## Questions
 
-  For any questions about this repo, Please contact me at [soliddan211@gmail.com](mailto:soliddan211@gmail.com). View more of my work in GitHub at [undefined](https://github.com/undefined)
+  For any questions about this repo, Please contact me at [soliddan211@gmail.com](mailto:soliddan211@gmail.com). View more of my work in GitHub at [Daniel Mendez](https://github.com/Daniel Mendez)
 
   
