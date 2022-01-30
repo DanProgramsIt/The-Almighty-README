@@ -58,4 +58,4 @@
 
   ## Questions
 
-  For any questions about this repo, Please contact me at [soliddan211@gmail.com](mailto:soliddan211@gmail.com). View more of my work in GitHub at [Daniel Mendez](https://github.com/Daniel Mendez)
+  For any questions about this repo, Please contact me at [soliddan211@gmail.com](mailto:soliddan211@gmail.com). View more of my work in GitHub at [Daniel Mendez](https://github.com/DanProgramsIt)
