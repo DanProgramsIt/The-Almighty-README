@@ -11,11 +11,11 @@
 
   Here is a demonstration video of the code: [README-Generator-Demo](https://drive.google.com/file/d/1khL8SOl40mTdtFQhyNdOMpo7IcfFhMtL/view)
 
-  ![terminal-image](/images/terminal-image.png)
+  ![terminal-image](/images/Terminal%20image.jpg)
 
   ## Generated README.md
 
-  ![Generated-README](/images/README image.png)
+  ![Generated-README](/images/README%20image.jpg)
 
   ## Table of Contents
 
